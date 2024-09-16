@@ -6,7 +6,7 @@
 
 * занимаюсь кодингом полтора года
 
-* приоритетная цель – развитие в разработке, освоение новых технологий, фич и инструментов
+* приоритетная цель — развитие в разработке, освоение новых технологий, фич и инструментов
 
 * нахожусь в поиске "своей" команды — ребят, с которыми мы вместе покорим тысячи и миллионы новых вершин, растопим все льды и достанем звезду с неба
 
@@ -16,11 +16,11 @@
 
 <img src="/gh icons/vuedotjs-color.svg" alt="Иконка Vue" width="30px"/>  <img src="/gh icons/react-color.svg" alt="Иконка React" width="30px"/>  <img src="/gh icons/vite-color.svg" alt="Иконка Vite" width="30px"/>  <img src="/gh icons/webpack-color.svg" alt="Иконка Webpack" width="30px"/>  <img src="/gh icons/axios-color.svg" alt="Иконка Axios" width="30px"/>  <img src="/gh icons/javascript-color.svg" alt="Иконка JS" width="30px"/>
 
-При написании адаптивной и семантической верстки работаю с Figma, в браузере - с расширением Perfect Pixel. Со всей нежностью использую препроцессор SASS(предпочитаю SCSS). Могу и люблю верстать по БЭМ, хотя подход Tailwind CSS знаком и люб мне тоже
+При написании адаптивной и семантической верстки работаю с Figma, в браузере – с расширением Perfect Pixel. Со всей нежностью использую препроцессор SASS(предпочитаю SCSS). Могу и люблю верстать по БЭМ, хотя подход Tailwind CSS знаком и люб мне тоже
 
 <img src="/gh icons/html5-color.svg" alt="Иконка HTML5" width="30px"/> <img src="/gh icons/css3-color.svg" alt="Иконка CSS3" width="30px"/> <img src="/gh icons/sass-color.svg" alt="Иконка SCSS" width="30px"/> <img src="/gh icons/tailwindcss-color.svg" alt="Иконка TailwindCSS" width="30px"/> <img src="/gh icons/bem.svg" alt="Иконка БЭМ" width="30px"/> <img src="/gh icons/figma-color.svg" alt="Иконка Figma" width="30px"/>
 
-В качестве редактора кода использую VSCode, система контроля версий - Git, платформа управления репозиториями - Github
+В качестве редактора кода использую VSCode, система контроля версий – Git, платформа управления репозиториями – Github
 
 <img src="/gh icons/vscode.svg" alt="Иконка VSCode" width="30px"/> <img src="/gh icons/git-color.svg" alt="Иконка Git" width="30px"/> <img src="/gh icons/github.svg" alt="Иконка GitHub" width="30px"/>
 
