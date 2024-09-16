@@ -29,7 +29,7 @@
 <img src="/gh icons/express-color.svg" alt="Иконка Express" width="30px"/><img src="/gh icons/mongodb-color.svg" alt="Иконка MongoDB" width="30px"/><img src="/gh icons/postman-color.svg" alt="Иконка Postman" width="30px"/>   <img src="/gh icons/nodedotjs-color.svg" alt="Иконка NodeJS" width="30px"/> 
 ***
 ### ☎️ Контакты
-Самый надеждый и просто лучший способ связаться со мной — <a href="https://t.me/vika_buyavykh"><img src="/gh icons/telegram-color.svg" width="20px"/>  Telegram</a>
+Самый надеждый и просто лучший способ связаться со мной telegram — <a href="https://t.me/vika_buyavykh"><img src="/gh icons/telegram-color.svg" width="30px"/></a>
 
 Для вашего удобства всю важную информацию о себе и своих проектах собрала в этом [портфолио](https://buyavykh-portfolio.vercel.app/)
 
